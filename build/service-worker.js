@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/generate-fashionable-LOL-name/build/precache-manifest.78b59c87782bf6eb57b5c5a7db0a3d02.js"
+  "/generate-fashionable-LOL-name/build/precache-manifest.394c279a8814897b6dfa1c98afd27126.js"
 );
 
 workbox.clientsClaim();
