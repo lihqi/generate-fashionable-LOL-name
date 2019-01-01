@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.67b506f6.chunk.css",
-  "main.js": "/static/js/main.9d35e173.chunk.js",
-  "main.js.map": "/static/js/main.9d35e173.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "/static/js/1.4a34e45d.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.67b506f6.chunk.css.map": "/static/css/main.67b506f6.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.e102fc7e1ebd002a552d91b8863ad366.js": "/precache-manifest.e102fc7e1ebd002a552d91b8863ad366.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/generate-fashionable-LOL-name/build/static/css/main.67b506f6.chunk.css",
+  "main.js": "/generate-fashionable-LOL-name/build/static/js/main.f6da2fe4.chunk.js",
+  "main.js.map": "/generate-fashionable-LOL-name/build/static/js/main.f6da2fe4.chunk.js.map",
+  "static/js/1.4a34e45d.chunk.js": "/generate-fashionable-LOL-name/build/static/js/1.4a34e45d.chunk.js",
+  "static/js/1.4a34e45d.chunk.js.map": "/generate-fashionable-LOL-name/build/static/js/1.4a34e45d.chunk.js.map",
+  "runtime~main.js": "/generate-fashionable-LOL-name/build/static/js/runtime~main.cf6c956b.js",
+  "runtime~main.js.map": "/generate-fashionable-LOL-name/build/static/js/runtime~main.cf6c956b.js.map",
+  "static/css/main.67b506f6.chunk.css.map": "/generate-fashionable-LOL-name/build/static/css/main.67b506f6.chunk.css.map",
+  "index.html": "/generate-fashionable-LOL-name/build/index.html",
+  "precache-manifest.78b59c87782bf6eb57b5c5a7db0a3d02.js": "/generate-fashionable-LOL-name/build/precache-manifest.78b59c87782bf6eb57b5c5a7db0a3d02.js",
+  "service-worker.js": "/generate-fashionable-LOL-name/build/service-worker.js"
 }
